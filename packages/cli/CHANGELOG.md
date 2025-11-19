@@ -1,5 +1,11 @@
 # vercel
 
+## 48.10.5
+
+### Patch Changes
+
+- Shows more descriptive log message while building ([#14301](https://github.com/vercel/vercel/pull/14301))
+
 ## 48.10.4
 
 ### Patch Changes
